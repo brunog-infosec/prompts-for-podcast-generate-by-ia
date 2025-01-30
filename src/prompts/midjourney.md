@@ -1,0 +1,1 @@
+|Prompt| Generate a image for a podcast with the name Techmind, add some object related do technology and sci-fi |
